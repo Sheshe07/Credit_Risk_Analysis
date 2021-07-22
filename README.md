@@ -11,7 +11,7 @@ After working and buliding up my skills using my skills in data preparation , st
 
 <img width="904" alt="Screen Shot 2021-07-21 at 7 50 25 PM" src="https://user-images.githubusercontent.com/79114781/126573731-211238f9-a8d5-480b-9400-1280b597865f.png">
 
-# deliverable 3:
+# Deliverable 3:
 
 <img width="937" alt="Screen Shot 2021-07-21 at 7 52 36 PM" src="https://user-images.githubusercontent.com/79114781/126573868-bd2d470d-53bf-4fca-9bce-6fd08808afdb.png">
 
